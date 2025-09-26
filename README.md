@@ -8,7 +8,7 @@
 - **Alikadam KG School ** - PSC (2000-2001)
 
 ### 👾 Interests
-- Full-stack Engineering, AI/ML Engineering, AR/VR Development, Enterprise Software, Game Development
+- Lead Soft Development, Full-stack OR Backend Engineering, AI/ML Engineering, AR/VR Development, Enterprise Software, Technology Business Development
 
 ### 🛠️ Skills
 <p>

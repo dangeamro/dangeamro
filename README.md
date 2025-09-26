@@ -43,17 +43,23 @@
   
 ### ⚡ Highlight Projects
 
-#### **[Bino AR Education App](https://play.google.com/store/apps/details?id=com.microtech.neelimarbioscope)**
-*Unity3D, C#, ARCore, ARKit*  
-Award-winning augmented reality application for iOS and Android that won national recognition in education technology.
+#### **[Bino AR Education App](https://play.google.com/store/apps/details?id=com.microtech.neelimarbioscope)** 🏆
+*Unity3D, C#, ARCore, ARKit | Award-Winning Mobile Application*
+- National award-winning augmented reality platform for interactive education
+- Cross-platform development supporting both iOS and Android devices
+- [Play Store](https://play.google.com/store/apps/details?id=com.microtech.neelimarbioscope) | [Demo Videos](https://www.youtube.com/@binoschool4769/videos)
 
-#### **[Enterprise Web Platforms](https://www.microtechinteractivebd.com)**
-*React, Node.js, Laravel, PostgreSQL*  
-Developed full-stack solutions for multiple enterprises including Yamato World and ELCO Cables.
+#### **Enterprise Web Solutions** 💼
+*Full-Stack Development: React, Node.js, Laravel, PostgreSQL*
+- **[Microtech Interactive](https://www.microtechinteractivebd.com)** - Corporate website and business management system
+- **[Yamato World](https://yamatoworld.co.jp)** - International e-commerce platform with multi-language support
+- **[ELCO Cables](https://www.elcocables.com)** - Enterprise portal for industrial supply chain management
 
-#### **Interactive Gaming with Kinect Sensor**
-*Unity3D, C#, Kinect SDK*  
-Created immersive gaming experiences integrating natural user interface technology.
+#### **Interactive Gaming Systems** 🎮
+*Unity3D, C#, Kinect SDK | Natural User Interface Integration*
+- Motion-controlled gaming experiences using Kinect sensor technology
+- Real-time gesture recognition for immersive educational applications
+- [Game Demo 1](https://www.youtube.com/watch?v=6wM1kF2B1Io) | [Game Demo 2](https://www.youtube.com/watch?v=kfVjnMGCjcQ)
 
 ### 🏆 Awards & Recognition
 

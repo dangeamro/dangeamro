@@ -25,6 +25,7 @@
 **Databases:** MySQL, PostgreSQL
 
 ### 🚀 Professional Experience
+#### **Team Lead IT** | Attrabit ICT Solution
 *Jan 2020 - Present* | Dhaka, Bangladesh  
 - Drive company vision and strategy for CMS, mobile, and enterprise software solutions
 - Lead cross-functional teams in delivering high-impact digital products

@@ -4,6 +4,8 @@
 ### 🎓 Education
 - **Stamford University ** - BSc in Computer Science and Engineering (2010-2013)
 - **Ideal College ** - HSC Science (2007-2009)
+- **Bandarban Govt High School ** - SSC Science (2005-2007)
+- **Alikadam KG School ** - PSC (2000-2001)
 
 ### 👾 Interests
 - Full-stack Engineering, AI/ML Engineering, AR/VR Development, Enterprise Software, Game Development

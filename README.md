@@ -68,7 +68,7 @@
 - **🏆 National Mobile Apps Award 2016** - Education Category (Bino AR App)
 - **🏆 ICT Award 2016** - Startup Category (Bino AR App)
 - **🏅 4th Place** - 3rd Inter-Department Programming Contest
-- **🎭 Multiple Awards** - Drama, Poetry, Speech competitions (2003-2004)
+- **🎭 Multiple Awards** - Speech, Drama, Poetry competitions (2003-2004)
 
 ### 📜 Certifications
 

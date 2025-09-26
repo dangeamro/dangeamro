@@ -1,4 +1,4 @@
-## About Me 🍒
+## About Me 🚀
 > [韓国語で見る](./japanese.md) &nbsp; · &nbsp; [📄 Resume](./DangEa_Murung_Resume.pdf) &nbsp; · &nbsp; [💼 LinkedIn](https://www.linkedin.com/in/dangeamurung/)
  
 ### 🎓 Education

@@ -13,7 +13,7 @@
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,csharp,react,nextjs,nodejs,laravel,android,unity,aws,docker,postgres,mysql,git,figma,ai" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,csharp,java,python,react,nextjs,nodejs,laravel,android,unity,aws,firebase,docker,mysql,postgres,git,vscode,figma,ai" />
   </a>
 </p>
 

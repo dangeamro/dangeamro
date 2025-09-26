@@ -1,5 +1,5 @@
 ## About Me 🚀
-> [韓国語で見る](./japanese.md) &nbsp; · &nbsp; [📄 Resume](./DangEa_Murung_Resume.pdf) &nbsp; · &nbsp; [💼 LinkedIn](https://www.linkedin.com/in/dangeamurung/)
+> [📄 Resume](./DangEa_Murung_Resume.pdf) &nbsp; · &nbsp; [💼 LinkedIn](https://www.linkedin.com/in/dangeamurung/)
  
 ### 🎓 Education
 - **Stamford University ** - BSc in Computer Science and Engineering (2010-2013)

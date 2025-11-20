@@ -68,7 +68,7 @@
 - **Japanese** - Intermediate  
 - **Mro** - Native
 
-### 🌐 Hobbies & Interests
+### ✨ Hobbies & Interests
 - **Painting**
 - **Photography**
 - **Technology**

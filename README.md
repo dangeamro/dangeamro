@@ -17,59 +17,39 @@
   </a>
 </p>
 
-**Programming:** Python, JavaScript, TypeScript, Java, PHP, C#, CSS  
-**Frameworks & Libraries:** React, Next.js, Node.js, Laravel, Slim PHP, ASP.NET, Spring Boot  
+**Programming:** JavaScript, PHP, Java, C#, Python, Swift  
+**Frameworks & Libraries:** React, Next.js, Node.js, Laravel, ASP.NET, Android, Spring Boot  
 **Mobile & Game:** Unity3D, Android Development, iOS Development  
 **AI/ML:** PyTorch, Scikit-learn, LangChain, LLM Integration  
-**Tools:** AWS, Docker, Git, Figma, Adobe Creative Suite  
-**Databases:** MySQL, PostgreSQL
+**Tools:** AWS, Firebase, Docker, Git, Figma, Adobe Creative Suite, Wordpress,Docker 
+**Databases:** MySQL, PostgreSQL, NoSQL
 
 ### 🚀 Professional Experience
-#### **Team Lead IT** | Attrabit ICT Solution
+#### **IT Team Lead** | Attrabit ICT Solution
 *Jan 2020 - Present* | Dhaka, Bangladesh  
-- Drive company vision and strategy for CMS, mobile, and enterprise software solutions
-- Lead cross-functional teams in delivering high-impact digital products
-- Manage client relationships and ensure alignment with business objectives
+- Drove company vision, strategy, and growth by innovating CMS and enterprise software using Spring Boot (JAVA), Laravel (PHP) & AI Solutions (Python). 
+- Managed client relationships and ensured project alignment with business objectives, leading to improved client retention and project success. 
+- Oversaw daily operations and product development, Implemented AI-driven product enhancements. 
+
 
 #### **Lead Software Developer** | Microtech Interactive
 *Dec 2016 - Dec 2019* | Dhaka, Bangladesh  
-- Led development of **Bino** - award-winning augmented reality education app
-- **🏆 Awards:** National Mobile Apps Award 2016 (Education), ICT Award 2016 (Startup)
-- Coordinated with designers and engineers for innovative feature delivery
-- Built interactive educational content reaching 50,000+ users
+- Developed the "Bino" Augmented Reality App for Android/iOS using (JavaScript) & Unity 3D platform. 
+- Achieved national recognition with the National Mobile Apps Award 2016 (Education) and ICT Award 2016 (Startup). 
+- Collaborated with cross-functional teams of designers and engineers to deliver innovative features on schedule. 
+- Built interactive educational App using JavaScript, PHP and MySQL, successfully reaching over 50,000 users/customers. 
 
 #### **Senior Software Developer / Team Lead** | TechnoMagic Pvt. Ltd.
 *Jan 2014 - Nov 2016* | Dhaka, Bangladesh  
-- Advanced from intern to lead developer driving game development projects
-- Integrated Natural User Interface (NUI) devices into interactive applications
-- Developed visual assets using Photoshop and Illustrator
-  
-### ⚡ Highlight Projects
-
-#### **[Bino AR Education App](https://play.google.com/store/apps/details?id=com.microtech.neelimarbioscope)** 🏆
-*Unity3D, C#, ARCore, ARKit | Award-Winning Mobile Application*
-- National award-winning augmented reality platform for interactive education
-- Cross-platform development supporting both iOS and Android devices
-- [Play Store](https://play.google.com/store/apps/details?id=com.microtech.neelimarbioscope) | [Demo Videos](https://www.youtube.com/@binoschool4769/videos)
-
-#### **Enterprise Web Solutions** 💼
-*Full-Stack Development: React, Node.js, Laravel, PostgreSQL*
-- **[Microtech Interactive](https://www.microtechinteractivebd.com)** - Corporate website and business management system
-- **[Yamato World](https://yamatoworld.co.jp)** - International e-commerce platform with multi-language support
-- **[ELCO Cables](https://www.elcocables.com)** - Enterprise portal for industrial supply chain management
-
-#### **Interactive Gaming Systems** 🎮
-*Unity3D, C#, Kinect SDK | Natural User Interface Integration*
-- Motion-controlled gaming experiences using Kinect sensor technology
-- Real-time gesture recognition for immersive educational applications
-- [Game Demo 1](https://www.youtube.com/watch?v=6wM1kF2B1Io) | [Game Demo 2](https://www.youtube.com/watch?v=kfVjnMGCjcQ)
+- Developed interactive games (JavaScript & C#) and Web API and Applications (Node.js). 
+- Integrated Natural User Interface (NUI) devices (Kinect, Leap Motion) into interactive applications 
+- Created Visual Assets using Illustrator and Photoshop for various projects application. 
 
 ### 🏆 Awards & Recognition
 
 - **🏆 National Mobile Apps Award 2016** - Education Category (Bino AR App)
 - **🏆 ICT Award 2016** - Startup Category (Bino AR App)
 - **🏅 4th Place** - 3rd Inter-Department Programming Contest
-- **🎭 Multiple Awards** - Speech, Drama, Poetry competitions (2003-2004)
 
 ### 📜 Certifications
 

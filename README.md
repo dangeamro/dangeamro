@@ -38,7 +38,7 @@
 - Collaborated with cross-functional teams of designers and engineers to deliver innovative features on schedule. 
 - Built interactive educational App using JavaScript, PHP and MySQL, successfully reaching over 50,000 users/customers. 
 
-#### **Senior Software Developer / Team Lead** | TechnoMagic Pvt. Ltd.
+#### **Sr. Software Developer** | TechnoMagic Pvt. Ltd.
 *Jan 2014 - Nov 2016* | Dhaka, Bangladesh  
 - Developed interactive games (JavaScript & C#) and Web API and Applications (Node.js). 
 - Integrated Natural User Interface (NUI) devices (Kinect, Leap Motion) into interactive applications 

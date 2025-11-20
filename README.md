@@ -1,14 +1,13 @@
 ## About Me 🚀
 > [📄 Resume](./DangEa_Murung_Resume.pdf) &nbsp; · &nbsp; [💼 LinkedIn](https://www.linkedin.com/in/dangeamurung/)
- 
-### 🎓 Education
-- **Stamford University ** - BSc in Computer Science and Engineering (2010-2013)
-- **Ideal College ** - HSC Science (2007-2009)
-- **Bandarban Govt High School ** - SSC Science (2005-2007)
-- **Alikadam KG School ** - PSC (2000-2001)
+
+ ### 🙎🏻‍♂️ Profile
+❖  Visionary Tech Leader with 11 years of driving innovation in Enterprise Software, AI, and AR/VR.  
+❖ Expert in Full-Stack Software Development, and Immersive Digital Experiences. 
+❖ Proven track record of leading cross-functional teams to deliver award-winning products that blend cutting-edge technology with business impact. 
 
 ### 👾 Interests
-- Lead Soft Development, Full-stack OR Backend Engineering, AI/ML Engineering, AR/VR Development, Enterprise Software, Technology Business Development
+- Lead Software Developer, Full-Stack OR Backend Engineering, AI/ML Engineering, AR/VR Development, Enterprise Software, Technology Business Development
 
 ### 🛠️ Skills
 <p>
@@ -17,7 +16,7 @@
   </a>
 </p>
 
-**Programming:** JavaScript, PHP, Java, C#, Python, Swift  
+**Programming:** JavaScript, PHP, Java, C#, Python  
 **Frameworks & Libraries:** React, Next.js, Node.js, Laravel, ASP.NET, Android, Spring Boot  
 **Mobile & Game:** Unity3D, Android Development, iOS Development  
 **AI/ML:** PyTorch, Scikit-learn, LangChain, LLM Integration  
@@ -43,19 +42,24 @@
 *Jan 2014 - Nov 2016* | Dhaka, Bangladesh  
 - Developed interactive games (JavaScript & C#) and Web API and Applications (Node.js). 
 - Integrated Natural User Interface (NUI) devices (Kinect, Leap Motion) into interactive applications 
-- Created Visual Assets using Illustrator and Photoshop for various projects application. 
+- Created Visual Assets using Illustrator and Photoshop for various projects application.
+
+### 🎓 Education
+- **Stamford University ** - BSc in Computer Science and Engineering (2010-2013)
+- **Ideal College ** - HSC Science (2007-2009)
+- **Bandarban Govt High School ** - SSC Science (2005-2007)
+- **Alikadam KG School ** - PSC (2000-2001)
 
 ### 🏆 Awards & Recognition
 
 - **🏆 National Mobile Apps Award 2016** - Education Category (Bino AR App)
 - **🏆 ICT Award 2016** - Startup Category (Bino AR App)
-- **🏅 4th Place** - 3rd Inter-Department Programming Contest
+- **🏅 Programming Award, 4th Place** - 3rd Inter-Department Programming Contest
 
 ### 📜 Certifications
 
-- **Mobile Application Development (Android)** - BASIS Institute of Technology & Management (2016)
-- **Debate & Adolescents Workshop** - Global Village Action-aid Bangladesh (2006)
-- **Computer Applications** - Center for National Youth Self-Development Training (2004)
+- **Certificate in Mobile Application Development (Android)** - BASIS Institute of Technology & Management (2016)
+- **Certificate in Computer Applications** - Center for National Youth Self-Development Training (2004)
 
 ### 🌐 Languages
 
@@ -63,6 +67,16 @@
 - **Bangla** - Native
 - **Japanese** - Intermediate  
 - **Mro** - Native
+
+### 🌐 Hobbies & Interests
+- **Painting**
+- **Photography**
+- **Technology**
+- **Travel**
+- **Music**
+- **Science**
+- **Football**
+- **Badminton**
 <!-- 
 ## Stats
 
